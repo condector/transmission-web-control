@@ -45,8 +45,8 @@
 		"ui-mobile": "IU Mobile",
 		"ui-original": "IU Original",
 		"ui-computer": "IU Escritório",
-		"plugin": "Extensions/plugins",
-		"rename": "Rename",
+		"plugin": "Extensões/plugins",
+		"rename": "Renomear",
 		"copy-path-to-clipboard": "Copy download location to clipboard",
 		"tip": {
 			"start": "Iniciar Torrents marcados",
@@ -71,7 +71,7 @@
 			"ui-mobile": "Interface Mobile",
 			"ui-original": "Interface Web",
 			"more-peers": "Pedir mais peers ao Traker",
-			"rename": "Renaming a Torrent's Path",
+			"rename": "Renomear Caminho do Torrent",
 			"copy-path-to-clipboard": "Copy download location to clipboard"
 		}
 	},
